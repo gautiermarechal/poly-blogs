@@ -1,0 +1,157 @@
+baseURL: "https://poly-blogs/"
+title: Poly Blogs
+paginate: 5
+theme: PaperMod
+
+enableRobotsTXT: true
+buildDrafts: false
+buildFuture: false
+buildExpired: false
+
+googleAnalytics: UA-123-45
+
+minify:
+  disableXML: true
+  minifyOutput: true
+
+params:
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: ExampleSite
+  description: "ExampleSite description"
+  keywords: [Blog, Portfolio, PaperMod]
+  author: Me
+  # author: ["Me", "You"] # multiple authors
+  images: ["<link or path of image for opengraph, twitter-cards>"]
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # dark, light
+  disableThemeToggle: false
+
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: false
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: true
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
+
+  assets:
+    # disableHLJS: true # to disable highlight.js
+    # disableFingerprinting: true
+    favicon: "<link / abs url>"
+    favicon16x16: "<link / abs url>"
+    favicon32x32: "<link / abs url>"
+    apple_touch_icon: "<link / abs url>"
+    safari_pinned_tab: "<link / abs url>"
+
+  label:
+    text: "Home"
+    icon: /apple-touch-icon.png
+    iconHeight: 35
+
+  # profile-mode
+  profileMode:
+    enabled: false # needs to be explicitly set
+    title: ExampleSite
+    subtitle: "This is subtitle"
+    imageUrl: "<img location>"
+    imageWidth: 120
+    imageHeight: 120
+    imageTitle: my image
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
+
+  # home-info mode
+  homeInfoParams:
+    Title: "Hi there \U0001F44B"
+    Content: Welcome to my blog
+
+  socialIcons:
+    - name: twitter
+      url: "https://twitter.com/"
+
+  analytics:
+    google:
+      SiteVerificationTag: "XYZabc"
+    bing:
+      SiteVerificationTag: "XYZabc"
+    yandex:
+      SiteVerificationTag: "XYZabc"
+
+  cover:
+    hidden: true # hide everywhere but not in structured data
+    hiddenInList: true # hide on list pages and home
+    hiddenInSingle: true # hide on single page
+
+  editPost:
+    URL: "https://github.com/<path_to_repo>/content"
+    Text: "Suggest Changes" # edit text
+    appendFilePath: true # to append file path to Edit link
+
+  # for search
+  # https://fusejs.io/api/options.html
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+# Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
+pygmentsUseClasses: true
+markup:
+  highlight:
+    noClasses: false
+    # anchorLineNos: true
+    # codeFences: true
+    # guessSyntax: true
+    # lineNos: true
+    # style: monokai
+defaultContentLanguage: en
+languages:
+  en:
+    languageName: "English"
+    languageAltTitle: English
+    weight: 10
+    homeInfoParams:
+      Title: Poly
+      Content: Poly is a science, history and philosophy blog to arouse the curiosity of its readers. This blog aspires to be generalist. In each post, a subject is treated in an introductory way, without remaining too superficial. The idea is to get the first technical aspects of the subject, so that the reader understands, without the post being illegible and boring. This blog has no claim to become a serious scientific journal. It exists for the sole purpose of providing interesting content for readers with a thirst for learning. The idea is to provide valuable information in this sea of noise that overwhelms us on the internet. The content is totally free, but if you want to support me you can at this following link. Thank you and good reading!
+    menu:
+      main:
+        - identifier: categories
+          name: Categories
+          url: /categories/
+          weight: 10
+        - identifier: tags
+          name: Tags
+          url: /tags/
+          weight: 20
+
+  fr:
+    languageName: "French"
+    languageAltTitle: Français
+    weight: 10
+    homeInfoParams:
+      Title: Poly
+      Content: Poly est un blog de science, d’histoire et de philosophie pour susciter la curiosité de ses lecteurs. Ce blog aspire à être généraliste. À chaque publication, un sujet est traité de manière introductive, sans rester trop en surface. L’idée est d’aller chercher les premiers aspects techniques du sujet, pour que le lecteur comprenne, sans que le billet soit illisible et barbant. Ce blog n’a aucune prétention de devenir une revue scientifique sérieuse. Il existe dans l’unique but d’apporter un contenu intéressant pour des lecteurs possédant une soif d’apprendre. L’idée est de donner une information de valeur dans cet océan de bruit qui nous englouti sur internet.  Le contenu est totalement gratuit, mais si vous voulez me soutenir vous le pouvez à ce lien suivant. Merci et bonne lecture!
+    menu:
+      main:
+        - identifier: categories
+          name: Catégories
+          url: /categories/
+          weight: 10
+        - identifier: Tags
+          name: tags
+          url: /tags/
+          weight: 20
