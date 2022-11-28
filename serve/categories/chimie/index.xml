@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Chimie on Poly Blogs</title>
+    <link>https://poly-blogs.com/categories/chimie/</link>
+    <description>Recent content in Chimie on Poly Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sun, 27 Nov 2022 12:00:00 +0000</lastBuildDate><atom:link href="https://poly-blogs.com/categories/chimie/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>L&#39;hydrogène: possible énergie alternative?</title>
+      <link>https://poly-blogs.com/posts/hydrogen/</link>
+      <pubDate>Sun, 27 Nov 2022 12:00:00 +0000</pubDate>
+      
+      <guid>https://poly-blogs.com/posts/hydrogen/</guid>
+      <description>Introduction En 1874, Jules Verne écrit:
+“Oui, mes amis, je crois que l’eau sera un jour employée comme combustible, que l’hydrogène et l’oxygène, qui la constituent, utilisés isolément ou simultanément, fourniront une source de chaleur et de lumière inépuisables et d’une intensité que la houille ne saurait avoir”.
+Un siècle et demi plus tard, l’hydrogène est sérieusement considéré comme une possible source d’énergie alternative des énergies fossiles dans notre mix énergétique.</description>
+    </item>
+    
+  </channel>
+</rss>

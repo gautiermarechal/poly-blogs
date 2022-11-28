@@ -23,19 +23,6 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
-  ShowReadingTime: true
-  ShowShareButtons: true
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowCodeCopyButtons: false
-  disableSpecial1stPost: false
-  disableScrollToTop: false
-  comments: false
-  hidemeta: false
-  hideSummary: false
-  showtoc: true
-  tocopen: false
-
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
@@ -70,10 +57,26 @@ languages:
     languageName: "English"
     languageAltTitle: English
     weight: 10
-    DateFormat: "January 2, 2006"
+    DateFormat: "2 January 2006"
+    ShowShareButtons: false
+    ShowReadingTime: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowToc: true
     homeInfoParams:
       Title: Poly Blogs
-      Content: Poly Blogs is a science, history and philosophy blog to arouse the curiosity of its readers. This blog aspires to be generalist. In each post, a subject is treated in an introductory way, without remaining too superficial. The idea is to get the first technical aspects of the subject, so that the reader understands, without the post being illegible and boring. This blog has no claim to become a serious scientific journal. It exists for the sole purpose of providing interesting content for readers with a thirst for learning. The idea is to provide valuable information in this sea of noise that overwhelms us on the internet. The content is totally free, but if you want to support me you can at this following link. Thank you and good reading!
+      Content: |+
+        Poly is a blog about multiple subjects in various disciplines such as science, history or philosophy. The ultimate goal is to arouse the curiosity of its readers.
+
+        This blog aspires to be generalist. With each publication, a subject is treated in an introductory way, without remaining too superficial.
+
+        The idea is to get the first technical aspects of the subject, so that the reader understands, without the post being illegible and boring.
+
+        This blog has no claim to become a serious scientific journal.
+
+        It exists for the sole purpose of providing interesting content for readers with a thirst for learning. The idea is to provide valuable information in this ocean of noise that engulfs us on the internet.
     menu:
       main:
         - identifier: categories
@@ -89,10 +92,32 @@ languages:
     languageName: "French"
     languageAltTitle: Français
     weight: 10
-    DateFormat: "2 Janvier, 2006"
+    DateFormat: "2 January 2006"
+    ShowShareButtons: false
+    ShowReadingTime: true
+    displayFullLangName: true
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    ShowCodeCopyButtons: true
+    ShowToc: true
     homeInfoParams:
       Title: Poly Blogs
-      Content: Poly Blogs est un blog de science, d’histoire et de philosophie pour susciter la curiosité de ses lecteurs. Ce blog aspire à être généraliste. À chaque publication, un sujet est traité de manière introductive, sans rester trop en surface. L’idée est d’aller chercher les premiers aspects techniques du sujet, pour que le lecteur comprenne, sans que le billet soit illisible et barbant. Ce blog n’a aucune prétention de devenir une revue scientifique sérieuse. Il existe dans l’unique but d’apporter un contenu intéressant pour des lecteurs possédant une soif d’apprendre. L’idée est de donner une information de valeur dans cet océan de bruit qui nous englouti sur internet.  Le contenu est totalement gratuit, mais si vous voulez me soutenir vous le pouvez à ce lien suivant. Merci et bonne lecture!
+      Content: |+
+        Poly est un blog de sur de multiples sujets dans diverses discipline comme la science, l’histoire ou la philosophie. 
+        
+        L’ultime but est de susciter la curiosité de ses lecteurs.
+        
+
+        Ce blog aspire à être généraliste. À chaque publication, un sujet est traité de manière introductive, sans rester trop en surface.
+
+
+        L’idée est d’aller chercher les premiers aspects techniques du sujet, pour que le lecteur comprenne, sans que le billet soit illisible et barbant.
+
+
+        Ce blog n’a aucune prétention de devenir une revue scientifique sérieuse.
+
+
+        Il existe dans l’unique but d’apporter un contenu intéressant pour des lecteurs possédant une soif d’apprendre. L’idée est de donner une information de valeur dans cet océan de bruit qui nous englouti sur internet.
     menu:
       main:
         - identifier: categories

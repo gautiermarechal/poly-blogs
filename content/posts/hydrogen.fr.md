@@ -1,6 +1,6 @@
 ---
 title: "L'hydrogène: possible énergie alternative?"
-date: 2022-11-27T12:00:00+00:00
+date: 2022-11-27T00:00:00+00:00
 cover:
   image: "/images/hydrogen/hydrogen-0.jpg"
   alt: "Hydrogen"

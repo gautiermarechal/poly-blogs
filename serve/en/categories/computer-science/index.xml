@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Computer Science on Poly Blogs</title>
+    <link>https://poly-blogs.com/en/categories/computer-science/</link>
+    <description>Recent content in Computer Science on Poly Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 28 May 2022 23:36:38 +0200</lastBuildDate><atom:link href="https://poly-blogs.com/en/categories/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Transistors and their global impact</title>
+      <link>https://poly-blogs.com/en/posts/transistors/</link>
+      <pubDate>Sat, 28 May 2022 23:36:38 +0200</pubDate>
+      
+      <guid>https://poly-blogs.com/en/posts/transistors/</guid>
+      <description>Today, we are tackling transistors, these small electronic components that have revolutionized the world of computing since their very first creation in the 1920s. What is a transistor, how does it work and why is it? what so important? And what is the future of transistors? Let&amp;rsquo;s explore this.
+The story of its invention At the beginning of the 20th century, modern electronics grew with the aim of better controlling the electric current applied to a circuit in order to build increasingly sophisticated machines.</description>
+    </item>
+    
+    <item>
+      <title>Cryptography and its implication in the past, in the present, and in the future</title>
+      <link>https://poly-blogs.com/en/posts/cryptography-implications/</link>
+      <pubDate>Wed, 24 Mar 2021 23:36:38 +0200</pubDate>
+      
+      <guid>https://poly-blogs.com/en/posts/cryptography-implications/</guid>
+      <description>Human success on the planet has been made possible thanks to our ability to communicate in the purpose of solving complex problems as groups. However, some groups have not always agreed together, causing multiple conflicts that shaped our history. Cryptography has shown itself as a tool to make communication between two parties secret to any other partie. This tool has been way more important than we think, and we will explore how it shaped history in the past, in the present and in the future.</description>
+    </item>
+    
+    <item>
+      <title>Abstraction in the mind and in computers</title>
+      <link>https://poly-blogs.com/en/posts/abstraction-mind-computers/</link>
+      <pubDate>Mon, 08 Feb 2021 23:36:38 +0200</pubDate>
+      
+      <guid>https://poly-blogs.com/en/posts/abstraction-mind-computers/</guid>
+      <description>The concept of abstraction is fundamentally essential and rooted in human existence. Since 200,000 years, humans have accumulated an immense set of knowledge in many different fields. Doing so has been possible with abstraction, a concept that helps us grow our knowledge in a lot of different ways. We will explore what abstraction is with a philosophy perspective, to help us understand abstraction in computer science and the human brain.</description>
+    </item>
+    
+  </channel>
+</rss>

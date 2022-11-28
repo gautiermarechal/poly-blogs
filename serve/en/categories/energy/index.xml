@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Energy on Poly Blogs</title>
+    <link>https://poly-blogs.com/en/categories/energy/</link>
+    <description>Recent content in Energy on Poly Blogs</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 14 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://poly-blogs.com/en/categories/energy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nuclear energy - fission and fusion</title>
+      <link>https://poly-blogs.com/en/posts/nuclear-energy-fission-fusion/</link>
+      <pubDate>Wed, 14 Sep 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://poly-blogs.com/en/posts/nuclear-energy-fission-fusion/</guid>
+      <description>Introduction Nuclear energy: between emotional debates and incomprehension, it is time to really understand what nuclear energy is, in what forms we exploit it, and future projects to face present and future environmental challenges.
+We will first explore the basic principles of this energy by looking at how an atom and its nucleus are made up.
+Next, we will explore our engineering techniques to harness this energy.
+And finally, we will understand what nuclear fusion consists of, its advantages and disadvantages, and the various future projects for exploiting this energy.</description>
+    </item>
+    
+  </channel>
+</rss>
