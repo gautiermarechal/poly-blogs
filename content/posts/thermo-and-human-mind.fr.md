@@ -8,7 +8,7 @@ cover:
   relative: false
 categories:
   - Psychologie
-  - Philsophie
+  - Philosophie
   - Physique
   - Science
 ---

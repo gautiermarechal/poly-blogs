@@ -66,25 +66,39 @@ languages:
     homeInfoParams:
       Title: Poly Blogs
       Content: |+
-        Poly is a blog about multiple subjects in various disciplines such as science, history or philosophy. The ultimate goal is to arouse the curiosity of its readers.
+        For years with my friend Hugo, we have been telling ourselves that there is a problem with our friends: they would like to learn more but cannot take the step of reading and documenting themselves. With the amount of resources everywhere on all the subjects of the world, they get lost and we understand...
 
-        This blog aspires to be generalist. With each publication, a subject is treated in an introductory way, without remaining too superficial.
+        Everyone is curious but when it comes to doing, it's more complicated.
 
-        The idea is to get the first technical aspects of the subject, so that the reader understands, without the post being illegible and boring.
+        Well, that's why we created this platform called Poly: a place where we try to popularize interesting scientific and philosophical subjects, and talk about the books we've read.
 
-        This blog has no claim to become a serious scientific journal.
+        A clear place, where you don't search for hours for what you want to learn. We just arrive and we like it.
 
-        It exists for the sole purpose of providing interesting content for readers with a thirst for learning. The idea is to provide valuable information in this ocean of noise that engulfs us on the internet.
+        BASICALLY: Poly is a science, philosophy, and book blog.
+
+        For now, this blog is intended for our circles of friends, but why not make it something global?
+
+        Our contacts:
+          Gautier Maréchal: gautier.marechal@gaut[dot]io
+          Hugo Soubrier:
     menu:
       main:
         - identifier: categories
           name: Categories
           url: /categories/
           weight: 10
+        - identifier: posts
+          name: Posts
+          url: /posts/
+          weight: 20
         - identifier: search
           name: Search
           url: search/
-          weight: 20
+          weight: 30
+        - identifier: books-graph
+          name: Books Graph
+          url: /books-graph/
+          weight: 40
 
   fr:
     languageName: "French"
@@ -101,28 +115,37 @@ languages:
     homeInfoParams:
       Title: Poly Blogs
       Content: |+
-        Poly est un blog de sur de multiples sujets dans diverses discipline comme la science, l’histoire ou la philosophie. 
-        
-        L’ultime but est de susciter la curiosité de ses lecteurs.
-        
+        Depuis des années avec mon ami Hugo, nous nous disons qu'il y'a un problème chez nos amis: ils aimeraient apprendre davantage mais n'arrivent pas à franchir le pas de lire et de se documenter. Avec la quantité de ressources partout sur tous les sujets du monde, ils se perdent et on comprend bien...
 
-        Ce blog aspire à être généraliste. À chaque publication, un sujet est traité de manière introductive, sans rester trop en surface.
+        Tout le monde est curieux mais quand il s'agit de faire, c'est plus compliqué.
 
+        Et bien voilà pourquoi on a crée cette plateforme baptisée Poly: un endroit où nous tentons de vulgariser des sujets scientifiques et philosophiques intéressants, et de parler des livres qu'on a lu.
 
-        L’idée est d’aller chercher les premiers aspects techniques du sujet, pour que le lecteur comprenne, sans que le billet soit illisible et barbant.
+        Un endroit clair, où on cherche pas pendant des heures ce qu'on veut apprendre. Juste on débarque et on kiffe.
 
+        EN GROS: Poly est un blog de science, de philosophie et de livres.
 
-        Ce blog n’a aucune prétention de devenir une revue scientifique sérieuse.
+        Pour l'instant, ce blog est destiné à nos cercles d'amis, mais pourquoi pas en faire quelque chose de global?
 
+        Nos contacts: 
+          Gautier Maréchal: gautier.marechal@gaut[dot]io 
+          Hugo Soubrier:
 
-        Il existe dans l’unique but d’apporter un contenu intéressant pour des lecteurs possédant une soif d’apprendre. L’idée est de donner une information de valeur dans cet océan de bruit qui nous englouti sur internet.
     menu:
       main:
         - identifier: categories
           name: Catégories
           url: /categories/
           weight: 10
+        - identifier: posts
+          name: Publications
+          url: /posts/
+          weight: 20
         - identifier: search
           name: Rechercher
           url: search/
-          weight: 20
+          weight: 30
+        - identifier: books-graph
+          name: Graphe de Livres
+          url: /books-graph/
+          weight: 40
