@@ -1,5 +1,5 @@
 ---
-title: "Le dépérissement des forêts françaises: plus de vert, c’est vraiment mieux?"
+title: "Le dépérissement des forêts françaises: d'avantage de vert, est-ce vraiment mieux?"
 date: 2023-12-26T22:00:00+00:00
 cover:
   image: "/images/forets-deperissement/forets-0.jpg"
@@ -11,31 +11,27 @@ categories:
   - Ecologie
 ---
 
-La surface forestière en France métropolitaine a plus que doublé depuis 1840 passant de 8.9 millions d’hectares à 17.3 millions en 2022. [1] Présentée sous cet angle, nous ne pouvons que se réjouir de cette nouvelle. Malheureusement, ce reboisement cache la réalité sur la santé des forêts françaises qui se dégrade de plus en plus rapidement face aux conditions climatiques et aux crises sanitaires. [1] Or la forêt joue un rôle significatif dans la captation naturelle de carbone et héberge une biodiversité importante. L’impact de la forêt est primordiale dans l’équilibre écosystémique et climatique du territoire, et ces derniers seraient de plus en plus menacés d’après les derniers résultats.
+La surface forestière en France métropolitaine a plus que doublé depuis 1840 passant de 8.9 millions d’hectares à 17.3 millions en 2022. [1] Présentée sous cet angle, nous ne pouvons que nous réjouir de cette nouvelle. Malheureusement, ce reboisement cache la réalité sur la santé des forêts françaises qui se dégrade de plus en plus rapidement face aux conditions climatiques et aux crises sanitaires. [1] Or la forêt joue un rôle significatif dans la captation naturelle de carbone et héberge une biodiversité importante. L’impact de la forêt est primordial dans l’équilibre écosystémique et climatique du territoire, et ces derniers seraient de plus en plus menacés d’après les derniers résultats.
 
-A travers cet article, nous iront explorer les observations conduites sur les différente menaces que les forêts vivent.
+A travers cet article, nous iront explorer les observations conduites sur les différentes menaces que les forêts vivent.
+Ensuite, nous irons comprendre comment vivent ces forêts, quels sont les mécanismes présents dans leur fonctionnement, et leur importance.
 
-En suite, nous iront comprendre comment vivent ces forêts, quels sont les mécanismes présents dans leurs fonctionnement, et leur importance.
-
-Finalement, nous essayerons de voir quelles solutions s’offrent à ces dernières pour péréniser leur santé.
+Finalement, nous essayerons de voir quelles solutions s’offrent à ces dernières pour pérenniser leur santé.
 
 ## De qui parle-t-on?
 
-Avant de parler des forêts, il semble primordial de connaitre ceux qui la consiste. D’après l’inventaire de l’IGN, on recense environ 190 espèces d’arbres regroupées en 70 essences [4]. Dans son memento, on retrouve 11 essences d’arbres qui représentent à peu près 70% de la surface forestière française [1].
+Avant de parler des forêts, il semble primordial de connaître ceux qui la constituent. D’après l’inventaire de l’IGN, on recense environ 190 espèces d’arbres regroupées en 70 essences [4]. Dans son memento, on retrouve 11 essences d’arbres qui représentent à peu près 70% de la surface forestière française [1].
 
 Ces 11 essences sont:
 
 - Le chêne pédonculé
 - Le chêne Sessile
-- Le chêne Pubescent
-- Le hêtre
-- Le chataignier
-- Le frêne
+- Le chêne Pubescent Le hêtre
+- Le châtaignier Le frêne
 - Le pin maritime
 - Le pin sylvestre
 - Le pin pectiné
-- L’épicea commun
-- Le douglas
+- L'épicéa commun Le douglas
 
 ![Photo by [Martin Adams](https://unsplash.com/@martinadams?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/photography-of-green-leaf-trees-during-daytime-qQYmavu2heI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)](/images/forets-deperissement/forets-2.jpg)
 
@@ -43,23 +39,23 @@ Malheureusement, ces derniers sont menacés par différents facteurs.
 
 ## Une mortalité des arbres en augmentation
 
-Nous savons que la mortalité des arbres a augmenté ces dernières années. D’après le rapport 2023 de l’Institut National de l’Information Géographique et Forestiere (IGN), la mortalité des arbres a augmenté de 80% entre 2013 et 2021 comparé à la période 2005-2013. [1]. Les forêts ont toujours fait face à des aléas climatiques mais jamais à cette fréquence alarme Sarah-Louise Filleux de l’INRAE [2].
+Nous savons que la mortalité des arbres a augmenté ces dernières années. D’après le rapport 2023 de l’Institut National de l’Information Géographique et Forestière (IGN), la mortalité des arbres a augmenté de 80% entre 2013 et 2021 comparé à la période 2005-2013. [1]. Les forêts ont toujours fait face à des aléas climatiques mais jamais à cette fréquence alarme Sarah-Louise Filleux de l’INRAE [2].
 
 ![0350ba81-2d3f-43d4-a05d-7f702404f319.png](/images/forets-deperissement/forets-1.png)
 
-La mortalité des arbres est une donnée important pour comprendre l’état de santé des forêts. Le changement climatique et l’activité humaine sont les principaux suspects qui forment les causes impactant les forêts. La première étant la sécheresse.
+La mortalité des arbres est une donnée importante pour comprendre l’état de santé des forêts. Le changement climatique et l’activité humaine sont les principaux suspects qui forment les causes impactant les forêts. La première étant la sécheresse.
 
 ### Sécheresse: les arbres ont soifs
 
-La sécheresse est le premier facteur impactant sur les forêt françaises [3 p.18]. Depuis 2018 (sauf 2021), la france a connu des périodes de sécheresses extrêmes.
+La sécheresse est le premier facteur impactant sur les forêts françaises [3 p.18]. Depuis 2018 (sauf 2021), la France a connu des périodes de sécheresses extrêmes.
 
-Les fortes chaleurs vont engendrer tout un mécanisme qui se répercutera sur l’arbre.
+Les fortes chaleurs vont engendrer tout un mécanisme qui se répercute sur l’arbre.
 
-Au printemps, une chaleur trop importante comparée aux normales, va engendrer une activité végétale précoce qui va consommer l’eau présente dans les sols. En arrivant à l’été, si la canicule persiste, l’évaporation des sols va augmenter, et ces derniers seront déjà amenuis en eau. Si l’on rajoute à ça l’augmentation de la transpiration des végétaux, un cercle vicieux est engagé et l’arbre connait un déficit d’eau.
+Au printemps, une chaleur trop importante comparée aux normales, va engendrer une activité végétale précoce qui va consommer l’eau présente dans les sols. En arrivant à l’été, si la canicule persiste, l’évaporation des sols va augmenter, et ces derniers seront déjà amenuisés en eau. Si l’on ajoute à ça l’augmentation de la transpiration des végétaux, un cercle vicieux est engagé et l’arbre connaît un déficit d’eau.
 
-Le manque de pluie force l’arbre à chercher de l’eau dans le sol. Les stomates qui sont les cellules responsables d’échanges gazeux dans les feuilles, restent ouverts, ce qui mène à la formation de bulle d’air dans les vaisseaux conducteurs d’eau. L’eau ne circule plus, et le croissance de l’arbre est altérée. La photosynthèse va aussi s’arrêter. Le métabolisme de l’arbre est à l’arrêt. [3][6]
+Le manque de pluie force l’arbre à chercher de l’eau dans le sol. Les stomates, qui sont les cellules responsables d’échanges gazeux dans les feuilles, restent ouverts, ce qui mène à la formation de bulles d’air dans les vaisseaux conducteurs d’eau. L’eau ne circule plus, et la croissance de l’arbre est altérée. La photosynthèse va aussi s’arrêter. Le métabolisme de l’arbre est à l’arrêt. [3][6]
 
-Le soucis avec les sécheresse, c’est que très peu d’arbres, même survivants, ne sortent indemnes de ces épisodes caniculaires. Il a été observé que les arbres survivants produisent moins de feuilles les années suivantes [5].
+Le souci avec les sécheresse, c’est que très peu d’arbres, même survivants, ne sortent indemnes de ces épisodes caniculaires. Il a été observé que les arbres survivants produisent moins de feuilles les années suivantes [5].
 
 ![Photo by [Adrien Stachowiak](https://unsplash.com/@adrien_s?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/a-close-up-view-of-a-cracked-surface-uvUxEPCWOwI?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)](/images/forets-deperissement/forets-3.jpg)
 
@@ -69,21 +65,21 @@ La sécheresse et la canicule engendrent des incendies. Les forêts ont toujours
 
 Mais la fréquence des incendies est primordiale pour laisser le temps à l’écosystème de se régénérer après une telle catastrophe. Et c’est tout là le problème.
 
-Même si les incendies ont reculé en France sur la période 1979-2022, les prévisions annoncent que 50% des forêts françaises pourraient être menacées par un niveau élevé d’exposition aux incendies [8]. En sachant que la saison des incendies s’est allongée à travers le globe, nous ne pouvons être que préventif de ce qu’il se passera en France et en Europe [9][10].
+Même si les incendies ont reculé en France sur la période 1979-2022, les prévisions annoncent que 50% des forêts françaises pourraient être menacées par un niveau élevé d’exposition aux incendies [8]. En sachant que la saison des incendies s’est allongée à travers le globe, nous ne pouvons être que préventif de ce qu’il se passera en France et en Europe [9][10]
 
 ![Photo by [Benjamin Lizardo](https://unsplash.com/@benji3pr?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/burning-wood-icrhAD-qidc?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)](/images/forets-deperissement/forets-4.jpg)
 
 ### Nuisibles
 
-La sécheresse et la situation climatique favorise l’emergence de certains nuisibles comme les scolytes. Le scolyte est un petit insecte qui va creuser des galleries sous l’écorce de l’arbre pour y déposer ses oeufs. En 2019 il fut responsable de la mortalité de 1.8 Millions de mètres cubes d’Epicéa commun dans l’Est de la France [1]. Cet épisode causa de grandes pertes économiques et écologiques pour la région. Depuis, l’épidémie perdure et de multiples mesures sont prises pour essayer de protéger l’essence d’Epicea.[11]
+La sécheresse et la situation climatique favorisent l'émergence de certains nuisibles comme les scolytes. Le scolyte est un petit insecte qui va creuser des galeries sous l’écorce de l’arbre pour y déposer ses œufs. En 2019 il est responsable de la mortalité de 1.8 Millions de mètres cubes d’Epicéa commun dans l’Est de la France [1]. Cet épisode causa de grandes pertes économiques et écologiques pour la région. Depuis, l’épidémie perdure et de multiples mesures sont prises pour essayer de protéger l’essence d'Épicéa.[11]
 
 ![Scolytes (Ips typographus) - (James K. Lindsey / wikimedia.org)](/images/forets-deperissement/forets-5.png)
 
 ### La monoculture
 
-Une dernière grande menace moins énoncée, est celle de la monoculture industrielle. Depuis les années 90, la France doit s’adapter à la demande croissante de la filière bois (plus 50% en 30 ans [1]), et pour ça, il faut réguler de façon industrielle la production des forêts. Afin de respecter la demande, des parcelles de monocultures sont plantées à travers la France. Or cette monoculture n’est pas favorable à la biodiversité d’après Christophe Deschamps, forestier à l’ONF [12]. Cultiver la même essence pourrait appauvrir la richesse des sols et des interactions écosystémiques d’une forêt.
+Une dernière grande menace, moins énoncée, est celle de la monoculture industrielle. Depuis les années 90, la France doit s’adapter à la demande croissante de la filière bois (plus 50% en 30 ans [1]), et pour ça, il faut réguler de façon industrielle la production des forêts. Afin de respecter la demande, des parcelles de monocultures sont plantées à travers la France. Or cette monoculture n’est pas favorable à la biodiversité d’après Christophe Deschamps, forestier à l’ONF [12]. Cultiver la même essence pourrait appauvrir la richesse des sols et des interactions écosystémiques d’une forêt.
 
-Mais ce n’est pas ce qu’assure l’ONF même, en mentionnant ces parcelles de monocultures d’ilots d’avenir. [13] Ces ilots sont des experimentation de certaines essences à l’adaptation des conditions locales. Ces experimentations pourraient nous aider à développer des forêts résilientes dans le futur. Affaire à suivre.
+Mais ce n’est pas ce qu’assure l’ONF même, en mentionnant ces parcelles de monocultures d'îlots d’avenir. [13] Ces îlots sont des expérimentations de certaines essences à l’adaptation des conditions locales. Ces expérimentations pourraient nous aider à développer des forêts résilientes dans le futur. Affaire à suivre.
 
 ![Semeurs des forêts, 2019](/images/forets-deperissement/forets-6.png)
 
@@ -93,17 +89,17 @@ Semeurs des forêts, 2019
 
 La forêt est une puissance géologique semblable à l’humain, capable de façonner son environnement, portant un impact du cycle de l’eau jusqu’aux sols.
 
-D’après la WWF, près de 1.6 milliards de personnes dépendent directement des forêts dans le monde pour ses multiples resources et effets positifs. [14]
+D’après la WWF, près de 1.6 milliards de personnes dépendent directement des forêts dans le monde pour ses multiples ressources et effets positifs. [14]
 
 ### Puit de carbone et cycle de l’eau
 
-En plus d’être riche en ressources, elle contribue à une grande part de l’absorption de CO2 par photosynthèse à travers le globe. En transformant l’énergie lumineuse et le CO2 en sucre, les arbres, et donc les forêts sont considérés comme des puits de carbone. Même si le taux d’absorption est en baisse, les forêts françaises ont absorbé 40 millions de tonnes de CO2 par an entre 2013 et 2021. [1] Cela correspond à l’absorption des émissions annuelles de 500 000 français [15]. Cette énergie est aussi utlisée par l’arbre pour pomper de l’eau le long de son tronc. La présence de cette eau ainsi que l’évapotranspiration permettent de réduire drastiquement la température des forêts à des échelles de 10 degrés de différences! [10]
+En plus d’être riche en ressources, elle contribue à une grande part de l’absorption de CO2 par photosynthèse à travers le globe. En transformant l’énergie lumineuse et le CO2 en sucre, les arbres, et donc les forêts sont considérés comme des puits de carbone. Même si le taux d’absorption est en baisse, les forêts françaises ont absorbé 40 millions de tonnes de CO2 par an entre 2013 et 2021. [1] Cela correspond à l’absorption des émissions annuelles de 500 000 français [15]. Cette énergie est aussi utilisée par l’arbre pour pomper de l’eau le long de son tronc. La présence de cette eau ainsi que l’évapotranspiration permettent de réduire drastiquement la température des forêts à des échelles de 10 degrés de différences! [10]
 
 ![Photo by [Nandhu Kumar](https://unsplash.com/@nandhukumarndd?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/mountain-rage-view-under-cloudy-sky-during-daytime-P7zXo_k-GmE?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)](/images/forets-deperissement/forets-7.jpg)
 
 ### Une biodiversité importante
 
-En France métropolitaine, nous comptons 190 essences d’arbres [1] qui abritent de multiples mammifères et oiseaux pour totaliser près de 30% de la biodiversité nationale [16]. Cette diversité est primordiale pour la stabilité sanitaire d’une forêt. Une biodiversité développée implique d’avantage d’interactions de symbiose ou de concurrence qui réduit la probabilité des épidémies ou des incendies. Si un pathogène rentre dans un sytème divers, il aura plus de chance de tomber sur des espèces résistantes, limitant sa propagation.
+En France métropolitaine, nous comptons 190 essences d’arbres [1] qui abritent de multiples mammifères et oiseaux pour totaliser près de 30% de la biodiversité nationale [16]. Cette diversité est primordiale pour la stabilité sanitaire d’une forêt. Une biodiversité développée implique davantage d’interactions de symbiose ou de concurrence qui réduit la probabilité des épidémies ou des incendies. Si un pathogène rentre dans un sytème divers, il aura plus de chance de tomber sur des espèces résistantes, limitant sa propagation.
 
 ### Ressources en bois
 
@@ -111,15 +107,15 @@ La filière bois française métropolitaine représentait 26 milliards d’euros
 
 ## Et maintenant, que fait-on?
 
-Les forêts dépérissent à un rythme au dessus de la normale en France, et les scientifiques continuent de découvrir son importance écologiques et économiques.
+Les forêts dépérissent à un rythme au-dessus de la normale en France, et les scientifiques continuent de découvrir son importance écologique et économique.
 
-Un papier de 1993 dénommé _Lessons from the past: forests and biodiversity_ résume les différents liens entre les activité humaines et les forêts. Tout le point de cette recherche est de changer la perspective productiviste que l’humain adopte face aux forêts. L’auteur souligne l’importance de connaitre d’avantage les processus et cycles écologiques pour améliorer les processus de conservation des forêts. [19]
+Un papier de 1993 dénommé Lessons from the past: forests and biodiversity résume les différents liens entre les activités humaines et les forêts. Tout le point de cette recherche est de changer la perspective productiviste que l’humain adopte face aux forêts. L’auteur souligne l’importance de connaître davantage les processus et cycles écologiques pour améliorer les processus de conservation des forêts. [19]
 
 Et c’est exactement ce qu’on commence à rencontrer avec par exemple les suggestions de l’IGN pour améliorer l’adaptation de certaines essences en diversifiant leur génétique par des couplages d’individus d’autres populations. [20]
 
 En comprenant l’importance de la diversité génétique des forêts, nous apprenons à trouver des solutions plus ciblées qu’avec la perspective ancienne soulignée par le papier.
 
-Notre rapport à la forêt est entrain de changer pour le mieux de la biodiversité et du vivant.
+Notre rapport à la forêt est en train de changer pour le mieux de la biodiversité et du vivant.
 
 ![Photo by [Andrew Coelho](https://unsplash.com/@andrewcoelho?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash) on [Unsplash](https://unsplash.com/photos/green-pine-trees-during-daytime-aL7SA1ASVdQ?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash)](/images/forets-deperissement/forets-8.jpg)
 
